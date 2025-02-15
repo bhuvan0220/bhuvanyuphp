@@ -7,4 +7,4 @@
     echo "integer is: $x <br>";  
     echo "float is: $y <br><br>";  
     echo"Program By Bhuvanyu Chhibber (2220100266)";
-?>
+?> 
