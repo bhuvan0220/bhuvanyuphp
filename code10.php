@@ -9,7 +9,7 @@
         echo "$x / $y = ". ($x / $y) . "<br>"; // 0utputs: 2.5
         echo "$x % $y = ". ($x % $y) . "<br><br>"; // 0utputs: 2
 	
-    echo "Program By Bhuvanyu Chhibber (220100266)";
+    echo "Program By Bhuvanyu Chhibber (2220100266)";
 	
 
 ?>
