@@ -7,7 +7,7 @@ $students = [
 ];
 
 // Extract subjects dynamically
-$subjects = array_keys($students["Ayush"]);
+$subjects = array_keys($students["Bhuvanyu"]);
 
 echo "<table border='1' cellspacing='0' cellpadding='10'>";
 echo "<tr>
